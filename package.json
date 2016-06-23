@@ -1,0 +1,26 @@
+{
+  "name": "gulp-tasks-sample-code1",
+  "version": "0.0.1",
+  "description": "Gulp Tasks sample code #1.",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S035779/gulpApp.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Mamoru Hashimoto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/S035779/gulpApp/issues"
+  },
+  "homepage": "https://github.com/S035779/gulpApp#readme"
+}
